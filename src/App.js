@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
 		 <p>
-			This is a change of the original code	
+			This is another change of the original code	
         </p>
       </header>
     </div>
